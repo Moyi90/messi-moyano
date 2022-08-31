@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@import './secciones/header';
+
+@import './secciones/main';
+
+.footer {
+    background-color: #D4D4AA;
+}
+
+.footer ul {
+    display: flex;
+    list-style: none;
+    width: 350px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.footer li {
+    margin: 5px;
+}

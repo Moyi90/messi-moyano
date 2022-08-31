@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box; }
+
+header {
+  color: aqua; }
+  header nav {
+    color: black;
+    background-color: #3f3f04;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    header nav ul {
+      color: red;
+      list-style: none;
+      display: flex;
+      font-size: 900; }
+
+main section h2 {
+  color: #77771b; }
+
+main section p {
+  color: #3b524a; }
+
+main section img {
+  color: maroon; }
+
+.footer {
+  background-color: #D4D4AA; }
+
+.footer ul {
+  display: flex;
+  list-style: none;
+  width: 350px;
+  margin: 0 auto;
+  justify-content: center; }
+
+.footer li {
+  margin: 5px; }

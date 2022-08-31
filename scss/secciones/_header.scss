@@ -1,0 +1,17 @@
+header{
+    color: aqua;
+    nav{
+        color: black;
+        background-color: #3f3f04;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        ul{
+            color: red;
+            list-style: none;
+            display: flex;
+            font-size: 900;
+        }
+    }
+}
